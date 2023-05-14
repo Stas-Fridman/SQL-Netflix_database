@@ -7,7 +7,7 @@ The dataset was cleaned in Excel and then imported into a PostgreSQL database us
 
 ## Dataset
 
-The dataset used in this project contains information about movies and TV shows available on Netflix. 
+The dataset used in this project was downloaded from Kaggle and contains information about movies and TV shows available on Netflix. 
 It includes attributes such as show ID, type, title, director, cast, country, date added, release year, rating, duration, listed in, and description.
 
 ## Objective
