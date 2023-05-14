@@ -20,14 +20,6 @@ The objective of this project is to perform various SQL queries and analysis on 
 - Excel: Used for data cleaning and preprocessing.
 - pgAdmin 4: Used as the database management tool to create a new table and import the cleaned dataset.
 
-## Project Structure
-
-The project is structured as follows:
-
-- `data/`: Contains the cleaned dataset file in CSV format.
-- `queries/`: Contains the SQL queries used for data analysis.
-- `README.md`: The documentation file you are currently reading.
-
 ## Usage
 
 To run the SQL queries and perform analysis on the Netflix database, follow these steps:
