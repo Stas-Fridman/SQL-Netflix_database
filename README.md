@@ -26,9 +26,10 @@ To run the SQL queries and perform analysis on the Netflix database, follow thes
 
 1. Set up a PostgreSQL database using pgAdmin 4.
 2. Create a new table in the database.
-3. Import the cleaned dataset from the `data/` directory into the table.
-4. Open your preferred SQL client and connect to the database.
-5. Execute the SQL queries found in the `queries/` directory to perform analysis on the Netflix dataset.
+3. Open your preferred SQL client and connect to the database.
+4. Execute the SQL queries to perform analysis on the Netflix dataset.
+
+
 ## SQL Queries
 
 The project includes a set of SQL queries that explore various aspects of the Netflix dataset. These queries cover areas such as:
